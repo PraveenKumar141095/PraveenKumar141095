@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenkumar141095" alt="praveenkumar141095" /></a> </p>
 
-- 💬 Ask me about **Python,Selenium,API,Html,CSS,javaScript**
+- 💬 Ask me about **Java,Selenium,API,Html,CSS,javaScript**
 
 - 📫 How to reach me **vps8899@gmail.com**
 
